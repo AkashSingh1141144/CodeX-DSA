@@ -1,0 +1,12 @@
+In C++, an operator is a symbol that tells the compiler to perform specific mathematical, logical, or relational operations on one or more operands.
+
+🧩 Types of Operators in C++:
+Operator Type |	  Description	Example
+1. Arithmetic	|   Performs basic mathematical operations	+, -, *, /, %
+2. Relational	 |  Compares two values	==, !=, <, >
+3. Logical	       |  Combines multiple conditions	&&, `
+4. Assignment |  Assigns values to variables	=, +=, -=, *=
+5. Increment/Decrement   |	 Increases or decreases value by 1	++, --
+6. Bitwise	Performs operations on bits	&, `
+7. Conditional (Ternary)	Shortcut for if-else	condition ? x : y
+8. Special Operators	Like sizeof, pointer *, reference &	sizeof(x), &x, *ptr
